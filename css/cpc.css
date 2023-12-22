@@ -12,6 +12,7 @@ body {
 .header {
     padding: 30px;
     background: white;
+        margin-top: 60px;
 }
 
 .header h1 {
